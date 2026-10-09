@@ -1,0 +1,1 @@
+const o={"a11y.menu":"プレーヤーのオプション","row.loop":"ループ再生","row.ambient":"アンビエントモード","row.theater":"シアターモード","row.autoSkip":"OP / ED を自動スキップ","row.miniplayer":"ミニプレーヤー","row.copyUrl":"URL をコピー","row.copyAtTime":"現在の再生時間の URL をコピー","row.stats":"動画の統計情報"};export{o as default};

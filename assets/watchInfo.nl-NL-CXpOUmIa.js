@@ -1,0 +1,1 @@
+const e={"row.studio":"Studio","row.released":"Uitgebracht","row.season":"Seizoen","row.episodes":"Afleveringen","row.runtime":"Speelduur","row.status":"Status","row.audio":"Audio","row.rated":"Kijkwijzer","row.watchOn":"Kijken op","label.sub":"Sub","label.dub":"Dub"};export{e as default};

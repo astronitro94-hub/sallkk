@@ -1,0 +1,1 @@
+const o={"a11y.menu":"Mga opsyon ng player","row.loop":"Loop mode","row.ambient":"Ambient mode","row.theater":"Theater mode","row.autoSkip":"Auto-skip ng intro/outro","row.miniplayer":"Miniplayer","row.copyUrl":"Kopyahin ang URL","row.copyAtTime":"Kopyahin ang URL sa kasalukuyang oras","row.stats":"Stats ng video"};export{o as default};

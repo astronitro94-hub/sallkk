@@ -1,0 +1,1 @@
+const o={"row.studio":"Studio","row.released":"Rilis","row.season":"Musim","row.episodes":"Episode","row.runtime":"Durasi","row.status":"Status","row.audio":"Audio","row.rated":"Rating","row.watchOn":"Tonton di","label.sub":"Sub","label.dub":"Dub"};export{o as default};

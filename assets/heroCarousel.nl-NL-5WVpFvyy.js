@@ -1,0 +1,1 @@
+const e={"action.watchNow":"Nu kijken","toast.signInRequired":"Log in om je te abonneren op nieuwe afleveringen","body.synopsisFallback":"Ontdek {title} en kijk de beschikbare afleveringen op copon.site.","a11y.openTitle":"{title} openen","a11y.showSlide":"{title} tonen","a11y.previous":"Vorige","a11y.next":"Volgende"};export{e as default};

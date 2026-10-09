@@ -1,0 +1,1 @@
+const e={"label.views":"{count, plural, one {{views} visning} other {{views} visningar}}","label.airedRelative":"{at, relative, day}","label.airedOn":"{at, date, medium}","label.description":"beskrivning","a11y.showMore":"Visa mer {label}","a11y.showLess":"Visa mindre {label}","action.showMore":"Visa mer","action.showLess":"Visa mindre"};export{e as default};

@@ -1,0 +1,1 @@
+const o={"a11y.menu":"Opciones del reproductor","row.loop":"Modo bucle","row.ambient":"Modo ambiente","row.theater":"Modo teatro","row.autoSkip":"Saltar intro/outro automáticamente","row.miniplayer":"Minirreproductor","row.copyUrl":"Copiar la URL","row.copyAtTime":"Copiar la URL en el minuto actual","row.stats":"Estadísticas del video"};export{o as default};

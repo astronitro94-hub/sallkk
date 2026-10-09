@@ -1,0 +1,1 @@
+const a={"a11y.rail":"Mga episode at kaugnay na title","a11y.scrollLeft":"I-scroll pakaliwa ang {shelf}","a11y.scrollRight":"I-scroll pakanan ang {shelf}","chip.all":"Lahat","title.recommended":"Inirerekomenda para sa iyo","title.related":"Kaugnay"};export{a as default};

@@ -1,0 +1,1 @@
+const a={"action.watchNow":"Panoorin na","toast.signInRequired":"Mag-sign in para mag-subscribe sa mga bagong episode","body.synopsisFallback":"Tuklasin ang {title} at panoorin ang mga available na episode sa copon.site.","a11y.openTitle":"Buksan ang {title}","a11y.showSlide":"Ipakita ang {title}","a11y.previous":"Nakaraan","a11y.next":"Susunod"};export{a as default};

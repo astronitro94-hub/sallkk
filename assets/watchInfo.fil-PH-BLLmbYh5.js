@@ -1,0 +1,1 @@
+const o={"row.studio":"Studio","row.released":"Inilabas","row.season":"Season","row.episodes":"Mga Episode","row.runtime":"Haba","row.status":"Status","row.audio":"Audio","row.rated":"Rating","row.watchOn":"Panoorin sa","label.sub":"Sub","label.dub":"Dub"};export{o as default};

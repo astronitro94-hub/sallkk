@@ -1,0 +1,1 @@
+const e={"title.addToCollection":"コレクションに追加","label.newCollection":"新規…","a11y.createCollection":"コレクションを作成","toast.added":"{name} に追加しました","toast.removed":"{name} から削除しました","toast.created":"コレクションを作成しました","toast.updateFailed":"コレクションを更新できませんでした。もう一度お試しください","toast.createFailed":"コレクションを作成できませんでした。もう一度お試しください"};export{e as default};

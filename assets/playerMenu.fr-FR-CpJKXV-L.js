@@ -1,0 +1,1 @@
+const o={"a11y.menu":"Options du lecteur","row.loop":"Mode boucle","row.ambient":"Mode ambiant","row.theater":"Mode théâtre","row.autoSkip":"Saut auto intro/outro","row.miniplayer":"Lecteur miniature","row.copyUrl":"Copier l’URL","row.copyAtTime":"Copier l’URL à l’instant présent","row.stats":"Statistiques vidéo"};export{o as default};

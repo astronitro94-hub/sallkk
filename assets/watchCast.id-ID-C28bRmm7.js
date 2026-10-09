@@ -1,0 +1,1 @@
+const a={"label.voicedBy":"Diisi suara oleh <b>{names}</b>","a11y.openProfile":"Judul dengan {name}","error.load":"Tidak dapat memuat penampilan","label.loading":"Memuat penampilan","title.asCharacter":"Karakter ini","title.asVoiceActor":"Juga diisi suara oleh {name}","empty.shows":"Tidak ada judul lain","label.asRole":"sebagai {name}"};export{a as default};

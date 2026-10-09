@@ -1,0 +1,1 @@
+const a={"label.voicedBy":"Röst av <b>{names}</b>","a11y.openProfile":"Titlar med {name}","error.load":"Kunde inte läsa in framträdanden","label.loading":"Läser in framträdanden","title.asCharacter":"Den här karaktären","title.asVoiceActor":"Även med rösten av {name}","empty.shows":"Inga fler titlar","label.asRole":"som {name}"};export{a as default};

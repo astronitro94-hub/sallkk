@@ -1,0 +1,1 @@
+const a={"label.voicedBy":"بصوت <b>{names}</b>","a11y.openProfile":"أعمال {name}","error.load":"تعذّر تحميل الأعمال","label.loading":"جارٍ تحميل الأعمال","title.asCharacter":"هذه الشخصية","title.asVoiceActor":"أيضاً بصوت {name}","empty.shows":"لا توجد أعمال أخرى","label.asRole":"بدور {name}"};export{a as default};

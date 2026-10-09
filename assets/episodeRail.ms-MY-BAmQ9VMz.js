@@ -1,0 +1,1 @@
+const e={"label.episode":"Episod {number}","label.viewSeries":"Lihat siri","label.sub":"Sub","label.dub":"Dub","label.minutes":"{minutes, number} min","meta.views":"{count, plural, other {{count, number, compact} tontonan}}","meta.aired":"{when, relative}","meta.episodes":"{count, plural, other {# episod}}"};export{e as default};

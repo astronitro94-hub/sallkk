@@ -1,0 +1,1 @@
+const e={"a11y.guide":"ガイド","a11y.home":"copon.site ホーム","label.search":"検索","a11y.clearSearch":"検索キーワードを消去","a11y.suggestions":"検索候補","title.trending":"copon.site の急上昇","a11y.removeSuggestion":"{title} を検索履歴から削除","action.remove":"削除","a11y.voiceSearch":"音声で検索","a11y.voiceSearchStop":"音声検索を停止"};export{e as default};

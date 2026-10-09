@@ -1,0 +1,1 @@
+const o={"title.global":"Top 100 do copon.site","title.topic":"Top 100 em {topic}","range.today":"Hoje","range.week":"Esta semana","range.month":"Este mês","range.all":"De todos os tempos","action.seeAll":"Ver tudo","action.showMore":"Mostrar mais","action.showLess":"Mostrar menos","a11y.rank":"Posição {rank, number}","a11y.rangeGroup":"Período do Top 100"};export{o as default};

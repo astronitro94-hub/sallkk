@@ -1,0 +1,1 @@
+const e={"label.voicedBy":"Voix de <b>{names}</b>","a11y.openProfile":"Œuvres avec {name}","error.load":"Impossible de charger les apparitions","label.loading":"Chargement des apparitions","title.asCharacter":"Ce personnage","title.asVoiceActor":"Aussi doublé par {name}","empty.shows":"Aucun autre titre","label.asRole":"dans le rôle de {name}"};export{e as default};

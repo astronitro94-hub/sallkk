@@ -1,0 +1,1 @@
+const l={"a11y.rail":"Folgen und verwandte Titel","a11y.scrollLeft":"{shelf} nach links scrollen","a11y.scrollRight":"{shelf} nach rechts scrollen","chip.all":"Alle","title.recommended":"Für dich empfohlen","title.related":"Ähnliche Titel"};export{l as default};

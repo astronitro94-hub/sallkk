@@ -1,0 +1,1 @@
+const e={"row.longSeekStep":"التخطي الطويل","label.longSeekSeconds":"{count, plural, zero {# ثانية} one {ثانية واحدة} two {ثانيتان} few {# ثوانٍ} many {# ثانية} other {# ثانية}}","label.longSeekCustomSeconds":"مخصّص ({count, plural, zero {# ثانية} one {ثانية واحدة} two {ثانيتان} few {# ثوانٍ} many {# ثانية} other {# ثانية}})"};export{e as default};

@@ -1,0 +1,1 @@
+const l={"label.control.volume":"Volume / mute","label.control.captions":"Subtitles","label.control.cast":"Cast","label.control.airplay":"AirPlay","label.control.pip":"Miniplayer (PiP)","label.control.fillTab":"Fill tab","label.control.fullscreen":"Fullscreen","label.control.episodes":"Prev / next episode","label.control.autoplay":"Autoplay switch"};export{l as default};

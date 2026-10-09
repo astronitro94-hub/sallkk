@@ -1,0 +1,1 @@
+const t={"action.watchNow":"Titta nu","toast.signInRequired":"Logga in för att prenumerera på nya avsnitt","body.synopsisFallback":"Upptäck {title} och se tillgängliga avsnitt på copon.site.","a11y.openTitle":"Öppna {title}","a11y.showSlide":"Visa {title}","a11y.previous":"Föregående","a11y.next":"Nästa"};export{t as default};

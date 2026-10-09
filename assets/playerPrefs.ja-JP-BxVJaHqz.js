@@ -1,0 +1,1 @@
+const l={"label.control.volume":"音量 / ミュート","label.control.captions":"字幕","label.control.cast":"キャスト","label.control.airplay":"AirPlay","label.control.pip":"ミニプレーヤー（PiP）","label.control.fillTab":"タブいっぱいに表示","label.control.fullscreen":"全画面","label.control.episodes":"前 / 次のエピソード","label.control.autoplay":"自動再生スイッチ"};export{l as default};

@@ -1,0 +1,1 @@
+const a={"label.views":"{count, plural, other {{views} tontonan}}","label.airedRelative":"{at, relative, day}","label.airedOn":"{at, date, medium}","label.description":"penerangan","a11y.showMore":"Tunjukkan lagi {label}","a11y.showLess":"Tunjukkan kurang {label}","action.showMore":"Tunjukkan lagi","action.showLess":"Tunjukkan kurang"};export{a as default};

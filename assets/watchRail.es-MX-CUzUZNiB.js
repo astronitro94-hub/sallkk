@@ -1,0 +1,1 @@
+const a={"a11y.rail":"Episodios y títulos relacionados","a11y.scrollLeft":"Desplazar {shelf} a la izquierda","a11y.scrollRight":"Desplazar {shelf} a la derecha","chip.all":"Todo","title.recommended":"Recomendado para ti","title.related":"Relacionados"};export{a as default};

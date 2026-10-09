@@ -1,0 +1,1 @@
+const l={"a11y.rail":"الحلقات والعناوين ذات الصلة","a11y.scrollLeft":"تمرير {shelf} إلى اليسار","a11y.scrollRight":"تمرير {shelf} إلى اليمين","chip.all":"الكل","title.recommended":"مختارات لك","title.related":"أعمال ذات صلة"};export{l as default};

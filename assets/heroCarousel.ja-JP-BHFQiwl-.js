@@ -1,0 +1,1 @@
+const t={"action.watchNow":"今すぐ見る","toast.signInRequired":"新着エピソードの登録にはログインが必要です","body.synopsisFallback":"{title} を copon.site でチェックして、配信中のエピソードを見よう。","a11y.openTitle":"{title} を開く","a11y.showSlide":"{title} を表示","a11y.previous":"前へ","a11y.next":"次へ"};export{t as default};

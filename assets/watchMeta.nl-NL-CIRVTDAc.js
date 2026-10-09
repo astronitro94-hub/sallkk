@@ -1,0 +1,1 @@
+const e={"label.views":"{count, plural, one {{views} weergave} other {{views} weergaven}}","label.airedRelative":"{at, relative, day}","label.airedOn":"{at, date, medium}","label.description":"beschrijving","a11y.showMore":"Meer {label} tonen","a11y.showLess":"Minder {label} tonen","action.showMore":"Meer tonen","action.showLess":"Minder tonen"};export{e as default};

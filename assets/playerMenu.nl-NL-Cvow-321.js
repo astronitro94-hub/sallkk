@@ -1,0 +1,1 @@
+const o={"a11y.menu":"Speleropties","row.loop":"Herhalen","row.ambient":"Ambientmodus","row.theater":"Theatermodus","row.autoSkip":"Intro/outro automatisch overslaan","row.miniplayer":"Miniplayer","row.copyUrl":"URL kopiëren","row.copyAtTime":"URL op huidige tijd kopiëren","row.stats":"Videostatistieken"};export{o as default};

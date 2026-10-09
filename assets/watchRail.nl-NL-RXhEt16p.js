@@ -1,0 +1,1 @@
+const e={"a11y.rail":"Afleveringen en verwante titels","a11y.scrollLeft":"{shelf} naar links scrollen","a11y.scrollRight":"{shelf} naar rechts scrollen","chip.all":"Alles","title.recommended":"Aanbevolen voor jou","title.related":"Verwant"};export{e as default};

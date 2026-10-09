@@ -1,0 +1,11 @@
+name = "copon-site"
+compatibility_date = "2026-01-01"
+
+# For Cloudflare Pages: push to GitHub and connect via dashboard
+# For direct deploy: npx wrangler pages deploy .
+
+# Worker routes (handled by _worker.js)
+[vars]
+UPSTREAM = "https://ani.pm"
+EMBED_HOST = "embed.settlar.io"
+MEDIA_HOST = "media.settlar.io"

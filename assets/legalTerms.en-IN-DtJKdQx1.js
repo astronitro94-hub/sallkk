@@ -1,0 +1,1 @@
+const e={"notice.translation":"This page is a localised version of the English (US) original. The English (US) version of these Terms of Service is the only authoritative and legally binding text; if the two differ, the English (US) version prevails."};export{e as default};

@@ -1,0 +1,1 @@
+const a={"title.addToCollection":"Tambahkan ke koleksi","label.newCollection":"Baru…","a11y.createCollection":"Buat koleksi","toast.added":"Ditambahkan ke {name}","toast.removed":"Dihapus dari {name}","toast.created":"Koleksi dibuat","toast.updateFailed":"Koleksi tidak bisa diperbarui — coba lagi","toast.createFailed":"Koleksi tidak bisa dibuat — coba lagi"};export{a as default};

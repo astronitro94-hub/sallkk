@@ -1,0 +1,1 @@
+const e={"label.voicedBy":"Gesprochen von <b>{names}</b>","a11y.openProfile":"Titel mit {name}","error.load":"Auftritte konnten nicht geladen werden","label.loading":"Auftritte werden geladen","title.asCharacter":"Dieser Charakter","title.asVoiceActor":"Auch gesprochen von {name}","empty.shows":"Keine weiteren Titel","label.asRole":"als {name}"};export{e as default};

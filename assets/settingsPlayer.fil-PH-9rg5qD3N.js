@@ -1,0 +1,1 @@
+const e={"row.longSeekStep":"Mahabang laktaw","label.longSeekSeconds":"{count, plural, one {# segundo} other {# segundo}}","label.longSeekCustomSeconds":"Custom ({count, plural, one {# segundo} other {# segundo}})"};export{e as default};

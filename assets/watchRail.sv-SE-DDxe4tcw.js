@@ -1,0 +1,1 @@
+const e={"a11y.rail":"Avsnitt och relaterade titlar","a11y.scrollLeft":"Bläddra {shelf} åt vänster","a11y.scrollRight":"Bläddra {shelf} åt höger","chip.all":"Alla","title.recommended":"Rekommenderat för dig","title.related":"Relaterat"};export{e as default};

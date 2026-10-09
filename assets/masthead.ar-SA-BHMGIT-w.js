@@ -1,0 +1,1 @@
+const e={"a11y.guide":"الدليل","a11y.home":"الصفحة الرئيسية لـ copon.site","label.search":"بحث","a11y.clearSearch":"مسح البحث","a11y.suggestions":"اقتراحات البحث","title.trending":"الرائج على copon.site","a11y.removeSuggestion":"إزالة {title} من سجلّ البحث","action.remove":"إزالة","a11y.voiceSearch":"البحث بصوتك","a11y.voiceSearchStop":"إيقاف البحث الصوتي"};export{e as default};

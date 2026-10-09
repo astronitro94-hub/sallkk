@@ -1,0 +1,1 @@
+const a={"title.global":"copon.site のトップ100","title.topic":"{topic} のトップ100","range.today":"今日","range.week":"今週","range.month":"今月","range.all":"全期間","action.seeAll":"すべて表示","action.showMore":"もっと見る","action.showLess":"表示を減らす","a11y.rank":"{rank, number}位","a11y.rangeGroup":"トップ100の期間"};export{a as default};

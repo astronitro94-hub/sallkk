@@ -1,0 +1,1 @@
+const a={"a11y.rail":"Episod dan tajuk berkaitan","a11y.scrollLeft":"Tatal {shelf} ke kiri","a11y.scrollRight":"Tatal {shelf} ke kanan","chip.all":"Semua","title.recommended":"Disyorkan untuk anda","title.related":"Berkaitan"};export{a as default};

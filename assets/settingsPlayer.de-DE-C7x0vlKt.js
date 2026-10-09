@@ -1,0 +1,1 @@
+const e={"row.longSeekStep":"Langer Sprung","label.longSeekSeconds":"{count, plural, one {# Sekunde} other {# Sekunden}}","label.longSeekCustomSeconds":"Benutzerdefiniert ({count, plural, one {# Sekunde} other {# Sekunden}})"};export{e as default};

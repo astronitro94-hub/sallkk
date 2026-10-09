@@ -1,0 +1,1 @@
+const e={"label.views":"{count, plural, one {{views} Aufruf} other {{views} Aufrufe}}","label.airedRelative":"{at, relative, day}","label.airedOn":"{at, date, medium}","label.description":"Beschreibung","a11y.showMore":"Mehr {label} anzeigen","a11y.showLess":"Weniger {label} anzeigen","action.showMore":"Mehr anzeigen","action.showLess":"Weniger anzeigen"};export{e as default};

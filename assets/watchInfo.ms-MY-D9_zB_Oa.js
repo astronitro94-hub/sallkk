@@ -1,0 +1,1 @@
+const o={"row.studio":"Studio","row.released":"Dikeluarkan","row.season":"Musim","row.episodes":"Episod","row.runtime":"Durasi","row.status":"Status","row.audio":"Audio","row.rated":"Penarafan","row.watchOn":"Tonton di","label.sub":"Sub","label.dub":"Dub"};export{o as default};

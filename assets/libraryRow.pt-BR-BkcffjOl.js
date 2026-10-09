@@ -1,0 +1,1 @@
+const e={"label.episodes":"{count, plural, one {# ep.} many {# ep.} other {# ep.}}","meta.score":"nota {score}","action.remove":"Remover da lista","a11y.select":"Selecionar {title}"};export{e as default};

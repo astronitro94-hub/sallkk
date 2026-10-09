@@ -1,0 +1,1 @@
+import{e6 as c,e7 as n}from"./index-YtSxdntS.js";const x="(max-width: 1154px) 168.75px, (max-width: 1523px) 14.625vw, 222.75px",p=(e,t)=>{const a=Math.max(0,e),{count:s,card:r,gap:o}=c(t,a+n(t)*2);return{cardWidth:Math.min(r,a),gap:o,columns:s}};export{x as T,p as t};

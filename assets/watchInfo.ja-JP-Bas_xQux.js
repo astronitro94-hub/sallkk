@@ -1,0 +1,1 @@
+const o={"row.studio":"制作会社","row.released":"公開","row.season":"シーズン","row.episodes":"エピソード","row.runtime":"再生時間","row.status":"放送状況","row.audio":"音声","row.rated":"対象年齢","row.watchOn":"配信先","label.sub":"字幕","label.dub":"吹き替え"};export{o as default};

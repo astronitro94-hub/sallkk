@@ -1,0 +1,1 @@
+const a={"label.voicedBy":"Voz de <b>{names}</b>","a11y.openProfile":"Obras com {name}","error.load":"Não foi possível carregar as aparições","label.loading":"Carregando aparições","title.asCharacter":"Este personagem","title.asVoiceActor":"Também com a voz de {name}","empty.shows":"Nenhum outro título","label.asRole":"como {name}"};export{a as default};

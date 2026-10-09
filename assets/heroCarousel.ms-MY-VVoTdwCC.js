@@ -1,0 +1,1 @@
+const a={"action.watchNow":"Tonton sekarang","toast.signInRequired":"Log masuk untuk melanggan episod baharu","body.synopsisFallback":"Temui {title} dan tonton episod yang tersedia di copon.site.","a11y.openTitle":"Buka {title}","a11y.showSlide":"Tunjukkan {title}","a11y.previous":"Sebelumnya","a11y.next":"Seterusnya"};export{a as default};

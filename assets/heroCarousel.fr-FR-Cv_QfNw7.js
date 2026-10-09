@@ -1,0 +1,1 @@
+const e={"action.watchNow":"Regarder","toast.signInRequired":"Connectez-vous pour vous abonner aux nouveaux épisodes","body.synopsisFallback":"Découvrez {title} et regardez les épisodes disponibles sur copon.site.","a11y.openTitle":"Ouvrir {title}","a11y.showSlide":"Afficher {title}","a11y.previous":"Précédent","a11y.next":"Suivant"};export{e as default};

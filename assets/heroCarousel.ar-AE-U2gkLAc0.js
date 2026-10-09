@@ -1,0 +1,1 @@
+const t={"action.watchNow":"شاهد الآن","toast.signInRequired":"سجّل الدخول للاشتراك في الحلقات الجديدة","body.synopsisFallback":"اكتشف {title} وشاهد الحلقات المتاحة على copon.site.","a11y.openTitle":"فتح {title}","a11y.showSlide":"عرض {title}","a11y.previous":"السابق","a11y.next":"التالي"};export{t as default};

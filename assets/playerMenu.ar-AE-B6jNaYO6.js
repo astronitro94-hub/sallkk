@@ -1,0 +1,1 @@
+const o={"a11y.menu":"خيارات المشغّل","row.loop":"وضع التكرار","row.ambient":"الوضع المحيط","row.theater":"وضع المسرح","row.autoSkip":"التخطي التلقائي","row.miniplayer":"المشغّل المصغّر","row.copyUrl":"نسخ الرابط","row.copyAtTime":"نسخ الرابط من هذه اللحظة","row.stats":"إحصاءات الفيديو"};export{o as default};

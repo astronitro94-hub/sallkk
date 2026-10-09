@@ -1,0 +1,1 @@
+const o={"a11y.menu":"Opsi pemutar","row.loop":"Mode loop","row.ambient":"Mode ambient","row.theater":"Mode teater","row.autoSkip":"Lewati intro/outro otomatis","row.miniplayer":"Pemutar mini","row.copyUrl":"Salin URL","row.copyAtTime":"Salin URL pada waktu ini","row.stats":"Statistik video"};export{o as default};

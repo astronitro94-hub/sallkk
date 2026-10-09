@@ -1,0 +1,1 @@
+const e={"action.watchNow":"Ver ahora","toast.signInRequired":"Inicia sesión para suscribirte a los episodios nuevos","body.synopsisFallback":"Descubre {title} y mira los episodios disponibles en copon.site.","a11y.openTitle":"Abrir {title}","a11y.showSlide":"Mostrar {title}","a11y.previous":"Anterior","a11y.next":"Siguiente"};export{e as default};

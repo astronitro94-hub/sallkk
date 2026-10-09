@@ -1,0 +1,1 @@
+const a={"a11y.menu":"Pilihan pemain","row.loop":"Mod gelung","row.ambient":"Mod ambien","row.theater":"Mod teater","row.autoSkip":"Langkau intro/outro automatik","row.miniplayer":"Pemain mini","row.copyUrl":"Salin URL","row.copyAtTime":"Salin URL pada masa semasa","row.stats":"Statistik video"};export{a as default};

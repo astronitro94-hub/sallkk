@@ -1,0 +1,1 @@
+function o(e){return String(e||"").trim().toUpperCase()==="MOVIE"}const a={WINTER:0,SPRING:3,SUMMER:6,FALL:9,AUTUMN:9};function s(e){const t=Math.trunc(Number(e.year)||0);if(t<1900||t>new Date().getUTCFullYear())return null;const r=a[String(e.season||"").toUpperCase()]??0,n=new Date(Date.UTC(t,r,1));return n.getTime()<=Date.now()?n:null}export{s as c,o as i};

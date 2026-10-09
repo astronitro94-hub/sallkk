@@ -1,0 +1,1 @@
+const l={"a11y.rail":"エピソードと関連作品","a11y.scrollLeft":"{shelf} を左にスクロール","a11y.scrollRight":"{shelf} を右にスクロール","chip.all":"すべて","title.recommended":"あなたへのおすすめ","title.related":"関連作品"};export{l as default};

@@ -1,0 +1,1 @@
+function u(r){if(!Number.isFinite(r)||r<0)return"0:00";const n=Math.floor(r%60),a=Math.floor(r/60%60),i=Math.floor(r/3600),t=o=>String(o).padStart(2,"0");return i>0?`${i}:${t(a)}:${t(n)}`:`${a}:${t(n)}`}function c(r){return u(Math.max(0,Math.round(r)))}export{u as c,c as m};

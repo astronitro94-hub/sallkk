@@ -1,0 +1,1 @@
+const e={"label.views":"{count, plural, other {{views} 回視聴}}","label.airedRelative":"{at, relative, day}","label.airedOn":"{at, date, medium}","label.description":"説明","a11y.showMore":"{label}をもっと見る","a11y.showLess":"{label}の表示を減らす","action.showMore":"もっと見る","action.showLess":"一部を表示"};export{e as default};

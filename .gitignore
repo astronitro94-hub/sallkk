@@ -1,0 +1,35 @@
+# Build output and dependencies
+node_modules/
+.vercel/
+.npm/
+
+# Large caches not needed in deployment
+api/_img/
+api/_cache/
+banners/
+tools/
+
+# Local dev files
+*.log
+dead.txt
+crawl.log
+
+# Deployment configs (not needed in Pages build)
+Dockerfile
+.dockerignore
+fly.toml
+render.yaml
+vercel.json
+.vercelignore
+
+# Documentation
+README.md
+*.md
+
+# Cloudflare Worker source (Pages uses _worker.js at root)
+src/
+functions/
+
+# Local server (not used in Pages)
+server.js
+api_local.js

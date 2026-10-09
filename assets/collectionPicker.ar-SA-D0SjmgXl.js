@@ -1,0 +1,1 @@
+const e={"title.addToCollection":"إضافة إلى مجموعة","label.newCollection":"جديدة…","a11y.createCollection":"إنشاء مجموعة","toast.added":"أُضيف إلى {name}","toast.removed":"أُزيل من {name}","toast.created":"تم إنشاء المجموعة","toast.updateFailed":"تعذّر تحديث المجموعة — أعد المحاولة","toast.createFailed":"تعذّر إنشاء المجموعة — أعد المحاولة"};export{e as default};

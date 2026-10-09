@@ -1,0 +1,1 @@
+const e={"label.episode":"第{number}話","label.viewSeries":"シリーズを見る","label.sub":"字幕","label.dub":"吹き替え","label.minutes":"{minutes, number}分","meta.views":"{count, plural, other {{count, number, compact} 回視聴}}","meta.aired":"{when, relative}","meta.episodes":"{count, plural, other {全#話}}"};export{e as default};

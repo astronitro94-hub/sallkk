@@ -1,0 +1,1 @@
+const o={"row.studio":"Estudio","row.released":"Estreno","row.season":"Temporada","row.episodes":"Episodios","row.runtime":"Duración","row.status":"Estado","row.audio":"Audio","row.rated":"Clasificación","row.watchOn":"Ver en","label.sub":"Sub","label.dub":"Dub"};export{o as default};

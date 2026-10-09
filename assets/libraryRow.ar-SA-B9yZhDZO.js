@@ -1,0 +1,1 @@
+const e={"label.episodes":"{count, plural, zero {بلا حلقات} one {حلقة} two {حلقتان} few {# حلقات} many {# حلقة} other {# حلقة}}","meta.score":"تقييم {score}","action.remove":"إزالة من القائمة","a11y.select":"تحديد {title}"};export{e as default};

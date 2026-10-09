@@ -1,0 +1,1 @@
+const a={"label.voicedBy":"Binoseshan ni <b>{names}</b>","a11y.openProfile":"Mga palabas ni {name}","error.load":"Hindi ma-load ang mga palabas","label.loading":"Nilo-load ang mga palabas","title.asCharacter":"Ang karakter na ito","title.asVoiceActor":"Binoseshan din ni {name}","empty.shows":"Walang ibang titulo","label.asRole":"bilang si {name}"};export{a as default};

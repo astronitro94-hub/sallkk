@@ -1,0 +1,1 @@
+const e={"meta.episode":"第{number}話","meta.episodeOf":"第{number}話 / 全{total}話","meta.dub":"吹き替え","meta.sub":"字幕","meta.views":"{count, plural, other {{count, number, compact} 回視聴}}","meta.aired":"{when, relative}","action.remove":"視聴履歴から削除","toast.removed":"視聴履歴から削除しました","a11y.rowMenu":"{episode} — {series} のその他の操作"};export{e as default};

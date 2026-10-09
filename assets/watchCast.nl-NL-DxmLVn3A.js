@@ -1,0 +1,1 @@
+const e={"label.voicedBy":"Stem van <b>{names}</b>","a11y.openProfile":"Titels met {name}","error.load":"Optredens konden niet worden geladen","label.loading":"Optredens laden","title.asCharacter":"Dit personage","title.asVoiceActor":"Ook ingesproken door {name}","empty.shows":"Geen andere titels","label.asRole":"als {name}"};export{e as default};

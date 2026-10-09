@@ -1,0 +1,1 @@
+const a={"title.global":"أفضل ١٠٠ على copon.site","title.topic":"أفضل ١٠٠ في {topic}","range.today":"اليوم","range.week":"هذا الأسبوع","range.month":"هذا الشهر","range.all":"كل الأوقات","action.seeAll":"عرض الكل","action.showMore":"عرض المزيد","action.showLess":"عرض أقل","a11y.rank":"المرتبة {rank, number}","a11y.rangeGroup":"نطاق أفضل ١٠٠"};export{a as default};

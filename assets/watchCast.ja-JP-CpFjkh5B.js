@@ -1,0 +1,1 @@
+const a={"label.voicedBy":"声優 <b>{names}</b>","a11y.openProfile":"{name}の出演作","error.load":"出演作を読み込めませんでした","label.loading":"出演作を読み込み中","title.asCharacter":"このキャラクター","title.asVoiceActor":"{name}のその他の出演","empty.shows":"他の作品はありません","label.asRole":"{name} 役"};export{a as default};

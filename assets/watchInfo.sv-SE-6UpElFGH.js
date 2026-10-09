@@ -1,0 +1,1 @@
+const o={"row.studio":"Studio","row.released":"Släppt","row.season":"Säsong","row.episodes":"Avsnitt","row.runtime":"Speltid","row.status":"Status","row.audio":"Ljud","row.rated":"Åldersgräns","row.watchOn":"Se på","label.sub":"Sub","label.dub":"Dub"};export{o as default};

@@ -1,0 +1,1 @@
+const e={"a11y.menu":"Spelaralternativ","row.loop":"Loopläge","row.ambient":"Ambient läge","row.theater":"Teaterläge","row.autoSkip":"Hoppa över intro/outro automatiskt","row.miniplayer":"Minispelare","row.copyUrl":"Kopiera URL","row.copyAtTime":"Kopiera URL vid aktuell tid","row.stats":"Videostatistik"};export{e as default};

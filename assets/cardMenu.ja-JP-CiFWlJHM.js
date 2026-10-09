@@ -1,0 +1,1 @@
+const e={"action.library":"ライブラリに追加","action.likeShow":"高く評価した作品に追加","action.unlikeShow":"高く評価した作品から削除","toast.liked":"{title} を高く評価した作品に追加しました","toast.unliked":"{title} を高く評価した作品から削除しました","toast.likeFailed":"高評価を更新できませんでした","toast.signInLike":"作品を高く評価するにはログインしてください","a11y.titleMenu":"{title} のその他の操作","a11y.episodeMenu":"{episode} — {series} のその他の操作"};export{e as default};

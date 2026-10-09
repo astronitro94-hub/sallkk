@@ -1,0 +1,1 @@
+const e={"a11y.menu":"Player-Optionen","row.loop":"Schleife","row.ambient":"Ambient-Modus","row.theater":"Theatermodus","row.autoSkip":"Intro/Outro automatisch überspringen","row.miniplayer":"Miniplayer","row.copyUrl":"URL kopieren","row.copyAtTime":"URL ab aktueller Zeit kopieren","row.stats":"Videostatistik"};export{e as default};

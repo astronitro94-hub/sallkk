@@ -1,0 +1,1 @@
+const o={"row.studio":"الأستوديو","row.released":"الإصدار","row.season":"الموسم","row.episodes":"الحلقات","row.runtime":"المدة","row.status":"الحالة","row.audio":"الصوت","row.rated":"الفئة العمرية","row.watchOn":"شاهده على","label.sub":"مترجم","label.dub":"مدبلج"};export{o as default};
